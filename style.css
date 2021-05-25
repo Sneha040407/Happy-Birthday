@@ -5,7 +5,8 @@ body{
 }
 .bday{
     margin-top: 80px;
-    text-align: center;
+    margin-left: 428px;
+   
     background:linear-gradient(180deg,#f80112 0%,#2602f5 110%) ;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
